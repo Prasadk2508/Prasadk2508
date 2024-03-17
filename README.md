@@ -4,7 +4,7 @@
 <hr>
 <div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bfff&size=26&font=Times+New+Roman&center=true&lines=Hey!+This+is+Prasad+Kurale;I'm+a+Python+Developer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bfff&size=26&font=Times+New+Roman&center=true&lines=Hey!+This+is+Prasad+Kurale;I'm+a+Developer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div> 
 <p align="center">
 A passionate software engineer from Pune.<br>
