@@ -8,7 +8,7 @@
 </div> 
 <p align="center">
 A passionate software engineer from Pune.<br>
-Curently pursuing B.E in Information Technology. <br> 
+Curently pursuing B.E in Computer Engineering. <br> 
 Open for collaborations on Projects!
 </p><br>
 
